@@ -4,6 +4,5 @@ streamlit
 matplotlib
 numpy
 streamlit_file_browser
-re
 statistics
 setuptools
